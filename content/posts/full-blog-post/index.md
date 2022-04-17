@@ -55,11 +55,11 @@ This post is a `markdown` file and you can do everything in it that allows you t
 ### Emphasis
 
 ```md
-_This text will be italic_  
+_This text will be italic_
 **This text will be bold**
 ```
 
-_This text will be italic_  
+_This text will be italic_
 **This text will be bold**
 
 ### Lists
