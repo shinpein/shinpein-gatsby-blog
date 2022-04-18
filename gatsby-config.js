@@ -5,9 +5,9 @@ module.exports = {
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog.now.sh/',
     pathPrefix: '/',
-    siteLanguage: 'en',
-    ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
+    siteLanguage: 'ja',
+    ogLanguage: `ja_JP`,
+    author: 'Shinpei Nakamura', // for example - 'Ivan Ganev'
     authorDescription: 'short author description', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
@@ -15,7 +15,7 @@ module.exports = {
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:shinpei1022@gmail.com`
       },
       {
         icon: `twitter`,
